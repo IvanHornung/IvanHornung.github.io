@@ -1,4 +1,4 @@
-# Ivan Hornung – Portfolio
+# Portfolio
 
 ## Blue – Agentic Voice Accessibility Assistant
 
