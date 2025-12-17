@@ -1,8 +1,15 @@
 # Portfolio
 
+# TODO 
+- add pfp
+- add data poisoning
+- add arbo works
+- stp 311 linear regression
+
 ## Blue - Agentic Voice Accessibility Assistant
 
-![Blue Assistant](https://i.imgur.com/lmH93bb.png)
+<img src="https://i.imgur.com/lmH93bb.png" alt="Blue Assistant" width="250"/>
+
 
 A conversational, agentic AI assistant that lets visually/motor-impaired users understand and navigate a complex financial app completely eyes- and hands-free.
 
@@ -15,9 +22,9 @@ A conversational, agentic AI assistant that lets visually/motor-impaired users u
 
 ## Analyzing Community-Level Homogeneity and Heterogeneity Across Reddit Communities
 
-![tsne](https://i.imgur.com/KVnfNZs.jpeg)
+<img src="https://i.imgur.com/KVnfNZs.jpeg" alt="tsne" width="250"/>
 
-![Network Graph](https://i.imgur.com/2cbJTG2.png)
+<img src="https://i.imgur.com/2cbJTG2.png" alt="Network Graph" width="250"/>
 
 [Report Link](https://drive.google.com/file/d/1JoT3cRAyd5dhzUA9Ays_m9dNpCEFQE6P/view)
 
@@ -26,9 +33,9 @@ Social media communities reflect real-world sentiments, and analyzing their topi
 
 ## CommentCrafter - Full-Stack LLM-Powered Training Data Generation Platform for E-Commerce Sites
 
-![](https://i.imgur.com/rY4EfVb.png)
+<img src="https://i.imgur.com/rY4EfVb.png" alt="CommentCrafter" width="250"/>
 
-![](https://i.imgur.com/ANqYS4O.png)
+<img src="https://i.imgur.com/ANqYS4O.png" alt="CommentCrafter" width="250"/>
 
 [Link to GitHub](https://github.com/IvanHornung/CommentCrafter?tab=readme-ov-file)
 [Link to site](https://cc-web-client-737754814579.us-central1.run.app/)
@@ -41,14 +48,14 @@ CommentCrafter is a full-stack, LLM-powered platform that generates bulk synthet
 
 Link to project: https://github.com/Sizaha-Tech/Garage-Opener
 
-![Exterior images of Garage Door Opener product](https://i.imgur.com/9XNOII9.png)
+<img src="https://i.imgur.com/9XNOII9.png" alt="Exterior images of Garage Door Opener product" width="250"/>
 
-![Sizaha overview diagram](https://i.imgur.com/J9fERli.png)
+<img src="https://i.imgur.com/J9fERli.png" alt="Sizaha overview diagram" width="250"/>
 
 Built a full-stack IoT system that lets users securely open, close, and stop a garage door from a mobile app. The platform spans an embedded Raspberry Pi device, a cloud control plane, and a client application—designed to feel as responsive as a physical garage button while remaining remotely accessible with strong authentication and device ownership controls.
 
 
-![Demo](https://media.giphy.com/media/uFNChtAuJ71l1IAmvM/giphy.gif) ![Interior of case (annotated)](https://i.imgur.com/2jtwNqD.png)
+<img src="https://media.giphy.com/media/uFNChtAuJ71l1IAmvM/giphy.gif" alt="Demo" width="250"/> <img src="https://i.imgur.com/2jtwNqD.png" alt="Interior of case (annotated)" width="250"/>
 
 
 
