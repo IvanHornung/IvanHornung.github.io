@@ -1,10 +1,6 @@
 # Portfolio
 
-# TODO 
-- add pfp
-- add data poisoning
-- add arbo works
-- stp 311 linear regression
+
 
 ## Blue - Agentic Voice Accessibility Assistant
 
